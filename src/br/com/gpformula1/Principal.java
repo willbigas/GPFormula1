@@ -1,5 +1,7 @@
 package br.com.gpformula1;
 
+import br.com.gpformula1.negocio.ManterGPNegocio;
+import br.com.gpformula1.entidade.Piloto;
 import java.util.ArrayList;
 import java.util.List;
 
